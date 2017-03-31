@@ -1,0 +1,56 @@
+{
+    "sessionid": "KNbc_WLDSvfNn1B3cQxCHT-",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetAvailablePromotionDetail",
+                "rows": {
+                    "row": [
+                        {
+                            "rowIndex": "0",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10044",
+                                        "colName": "v_PromotionID"
+                                    },
+                                    {
+                                        "colValue": "2016-12-01 00:00:00.000",
+                                        "colName": "PromotionStartDate"
+                                    },
+                                    {
+                                        "colValue": "2020-12-01 00:00:00.000",
+                                        "colName": "PromotionEndDate"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Long Description English",
+                                        "colName": "PromotionLongDesc"
+                                    },
+                                    {
+                                        "colValue": "Terms and Conditions English",
+                                        "colName": "PromotionTC"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}

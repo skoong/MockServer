@@ -1,0 +1,48 @@
+{
+    "sessionid": "5NP1NUzCL3ATyXA_lIUokz5",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetAvailablePromotions",
+                "rows": {
+                    "row": [
+                        {
+                            "rowIndex": "0",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10044",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "http://static.green1020.com/Hyperwallet/HYP/XQA//PromotionImages/Desert.jpg",
+                                        "colName": "PromotionImageURL"
+                                    },
+                                    {
+                                        "colValue": "fr",
+                                        "colName": "AvailableLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Headline French",
+                                        "colName": "PromotionHeadline"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}

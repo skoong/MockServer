@@ -1,0 +1,51 @@
+{
+  "success": "true",
+  "message": "rVvbUPrvgHJxxfnlf_ZgYw3",
+  "tags": {
+    "tag": [
+      {
+        "tagName": "GetRewardOptions",
+        "rows": {
+          "row": [
+            {
+              "rowIndex": "0",
+              "columns": {
+                "column": [
+                  {
+                    "colValue": "0",
+                    "colName": "ErrorCode"
+                  },
+                  {
+                    "colValue": "",
+                    "colName": "ErrorMessage"
+                  },
+                  {
+                    "colValue": "10036",
+                    "colName": "v_PromotionID"
+                  },
+                  {
+                    "colValue": "2",
+                    "colName": "RewardDefinitionID"
+                  },
+                  {
+                    "colValue": "www.$100TravelImage.com",
+                    "colName": "RewardImageURL"
+                  },
+                  {
+                    "colValue": "en",
+                    "colName": "AvailableLanguageCode"
+                  },
+                  {
+                    "colValue": "$50 Travel Certificate (en)",
+                    "colName": "RewardDisplayName"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "tagStatus": "ACK"
+      }
+    ]
+  }
+}

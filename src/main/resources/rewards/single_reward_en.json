@@ -1,0 +1,76 @@
+{
+    "sessionid": "xh1Sz5JUoARUdF718Gyslvf",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetEarnedRewards",
+                "rows": {
+                    "row": [
+                        {
+                            "rowIndex": "0",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10038",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "2",
+                                        "colName": "RewardDefinitionID"
+                                    },
+                                    {
+                                        "colValue": "1900-01-01 00:00:00.0",
+                                        "colName": "RewardEarnedDate"
+                                    },
+                                    {
+                                        "colValue": "2017-03-16 00:00:00.0",
+                                        "colName": "RewardExpireDate"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardCouponCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RedemptionVendorURL"
+                                    },
+                                    {
+                                        "colValue": "S",
+                                        "colName": "SingleOrMultiple"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailablePromotionLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Promotion Headline English",
+                                        "colName": "PromotionHeadline"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableRewardLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "$25 Travel Certificate English",
+                                        "colName": "RewardDisplayName"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}

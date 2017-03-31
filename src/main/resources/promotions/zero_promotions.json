@@ -1,0 +1,16 @@
+{
+    "sessionid": "5NP1NUzCL3ATyXA_lIUokz5",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetAvailablePromotions",
+                "rows": {
+                    "row": []
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}

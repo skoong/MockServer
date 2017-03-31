@@ -1,0 +1,52 @@
+{
+  "sessionid": "jpjh1kW-JVkLhWEz5HaC4PG",
+  "success": "true",
+  "message": "Tag execution result has been successfully retrieved.",
+  "tags": {
+    "tag": [
+      {
+        "tagName": "GetRewardCode",
+        "rows": {
+          "row": [
+            {
+              "rowIndex": "0",
+              "columns": {
+                "column": [
+                  {
+                    "colValue": "0",
+                    "colName": "ErrorCode"
+                  },
+                  {
+                    "colValue": "",
+                    "colName": "ErrorMessage"
+                  },
+                  {
+                    "colValue": "TF30388899138718",
+                    "colName": "RewardCode"
+                  },
+                  {
+                    "colValue": "http://www.giftcardfortravel.com",
+                    "colName": "RedemptionVendorURL"
+                  },
+                  {
+                    "colValue": "fr",
+                    "colName": "AvailableLanguageCode"
+                  },
+                  {
+                    "colValue": "10038",
+                    "colName": "v_PromotionID"
+                  },
+                  {
+                    "colValue": "2",
+                    "colName": "v_RewardDefinitionID"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "tagStatus": "ACK"
+      }
+    ]
+  }
+}

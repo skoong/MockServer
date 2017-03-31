@@ -1,0 +1,135 @@
+{
+    "sessionid": "DfARlduUNnMD1VKhVRj5cAF",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetEarnedRewards",
+                "rows": {
+                    "row": [
+                        {
+                            "rowIndex": "0",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10035",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "2",
+                                        "colName": "RewardDefinitionID"
+                                    },
+                                    {
+                                        "colValue": "1900-01-01 00:00:00.0",
+                                        "colName": "RewardEarnedDate"
+                                    },
+                                    {
+                                        "colValue": "2017-03-16 00:00:00.0",
+                                        "colName": "RewardExpireDate"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardCouponCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RedemptionVendorURL"
+                                    },
+                                    {
+                                        "colValue": "C",
+                                        "colName": "SingleOrMultiple"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "AvailablePromotionLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Reward Choice Headline 1",
+                                        "colName": "PromotionHeadline"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableRewardLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Reward Choice Name 1",
+                                        "colName": "RewardDisplayName"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "rowIndex": "1",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10036",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "2",
+                                        "colName": "RewardDefinitionID"
+                                    },
+                                    {
+                                        "colValue": "1900-01-01 00:00:00.0",
+                                        "colName": "RewardEarnedDate"
+                                    },
+                                    {
+                                        "colValue": "2017-03-16 00:00:00.0",
+                                        "colName": "RewardExpireDate"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardCouponCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RedemptionVendorURL"
+                                    },
+                                    {
+                                        "colValue": "C",
+                                        "colName": "SingleOrMultiple"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "AvailablePromotionLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Reward Choice Headline 2",
+                                        "colName": "PromotionHeadline"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableRewardLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Reward Choice Name 2",
+                                        "colName": "RewardDisplayName"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}

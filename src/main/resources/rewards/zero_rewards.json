@@ -1,0 +1,76 @@
+{
+    "sessionid": "DfARlduUNnMD1VKhVRj5cAF",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetEarnedRewards",
+                "rows": {
+                    "row": [
+                        {
+                            "rowIndex": "0",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "-2",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "No Reward was found for the given WalletNumber: 38807810056",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "0",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "0",
+                                        "colName": "RewardDefinitionID"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardEarnedDate"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardExpireDate"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardCouponCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RedemptionVendorURL"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "SingleOrMultiple"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "AvailablePromotionLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "PromotionHeadline"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "AvailableRewardLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "RewardDisplayName"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}

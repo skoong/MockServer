@@ -1,0 +1,141 @@
+{
+    "sessionid": "5NP1NUzCL3ATyXA_lIUokz5",
+    "success": "true",
+    "message": "Tag execution result has been successfully retrieved.",
+    "tags": {
+        "tag": [
+            {
+                "tagName": "GetAvailablePromotions",
+                "rows": {
+                    "row": [
+                        {
+                            "rowIndex": "0",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10050",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "http://static.green1020.com/Hyperwallet/HYP/XQA//PromotionImages/travel 2.png",
+                                        "colName": "PromotionImageURL"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Spend 200 and get 50 usd Travel Reward",
+                                        "colName": "PromotionHeadline"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "rowIndex": "1",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10051",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "http://static.green1020.com/Hyperwallet/HYP/XQA//PromotionImages/travel 3.jpg",
+                                        "colName": "PromotionImageURL"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Spend $300 and get a $50 Travel Reward",
+                                        "colName": "PromotionHeadline"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "rowIndex": "2",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10052",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "http://static.green1020.com/Hyperwallet/HYP/XQA//PromotionImages/travel 4.jpg",
+                                        "colName": "PromotionImageURL"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Spend $400, get a $25 Travel Reward",
+                                        "colName": "PromotionHeadline"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "rowIndex": "3",
+                            "columns": {
+                                "column": [
+                                    {
+                                        "colValue": "0",
+                                        "colName": "ErrorCode"
+                                    },
+                                    {
+                                        "colValue": "",
+                                        "colName": "ErrorMessage"
+                                    },
+                                    {
+                                        "colValue": "10053",
+                                        "colName": "PromotionID"
+                                    },
+                                    {
+                                        "colValue": "http://static.green1020.com/Hyperwallet/HYP/XQA//PromotionImages/travel 5.jpg",
+                                        "colName": "PromotionImageURL"
+                                    },
+                                    {
+                                        "colValue": "en",
+                                        "colName": "AvailableLanguageCode"
+                                    },
+                                    {
+                                        "colValue": "Spend USD 500 and get a nice USD 25 as Travel Reward",
+                                        "colName": "PromotionHeadline"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "tagStatus": "ACK"
+            }
+        ]
+    }
+}
